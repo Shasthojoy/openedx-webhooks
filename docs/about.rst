@@ -86,7 +86,7 @@ group on JIRA.
 Check contributors on GitHub
 ----------------------------
 
-The bot can identify users that have made commits on a repository, but are
+The bot used to identify users that have made commits on a repository, but are
 not listed in the AUTHORS file for that repository.
 
 Install GitHub webhooks
